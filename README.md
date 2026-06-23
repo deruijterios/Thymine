@@ -21,13 +21,13 @@ Firstly install the dependencies.
 
 For MacOS:
 
-`brew install libimobiledevice6 libimobiledevice-utils`
+`brew install libimobiledevice idevicerestore`
 
 For Ubuntu:
 
 `sudo apt install usbmuxd libimobiledevice6 libimobiledevice-utils`
 
-To put yor device into Restore Mode after DFU after pwned DFU and restore your device into desired version, type :
+To put your device into Restore Mode before DFU before pwned DFU and restore your device into desired version, type :
 
 `./thymine.sh --restore < 7.0.6 or 7.1.2 >:`
 
