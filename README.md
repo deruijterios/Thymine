@@ -31,7 +31,7 @@ For Ubuntu:
 
 `sudo apt install usbmuxd libimobiledevice6 libimobiledevice-utils`
 
-To put your device into Restore Mode before DFU before pwned DFU and restore your device into desired version, type :
+To put your device into DFU before pwned DFU and restore your device into desired version, type :
 
 `./thymine.sh --restore < 7.0.6 or 7.1.2 >:`
 
