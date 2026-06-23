@@ -21,11 +21,11 @@ Firstly install the dependencies.
 
 For MacOS:
 
-`brew install libimobiledevice6 libimobiledevice-utils`
+`brew install usbmuxd libimobiledevice6 libimobiledevice-utils`
 
 For Ubuntu:
 
-`sudo apt install libimobiledevice6 libimobiledevice-utils`
+`sudo apt install usbmuxd libimobiledevice6 libimobiledevice-utils`
 
 To put yor device into Restore Mode after DFU after pwned DFU and restore your device into desired version, type :
 
