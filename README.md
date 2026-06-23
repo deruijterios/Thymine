@@ -29,7 +29,7 @@ For Ubuntu:
 
 To put yor device into Restore Mode after DFU after pwned DFU and restore your device into desired version, type :
 
-`./thymine.sh --restore < 7.0.6 or 7.1.2 >
+`./thymine.sh --restore < 7.0.6 or 7.1.2 >:`
 
 When the device restored into desired version, it will boot into Recovery Mode.
 
@@ -38,7 +38,7 @@ You can fetch the SHSH blobs via the Legacy-iOS-Kit
 
 For patching the boot files and put your device into DFU before pwned DFU and boot the desired version, type :
 
-`./thymine.sh --boot < 7.0.6 or 7.1.2 >
+`./thymine.sh --boot < 7.0.6 or 7.1.2 >`
 
 And your device is official in iOS 7.0.6! (or 7.1.2)
 
