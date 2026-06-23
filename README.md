@@ -21,7 +21,7 @@ Firstly install the dependencies.
 
 For MacOS:
 
-`brew install usbmuxd libimobiledevice6 libimobiledevice-utils`
+`brew install libimobiledevice6 libimobiledevice-utils`
 
 For Ubuntu:
 
