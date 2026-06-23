@@ -17,6 +17,10 @@ iOS 7.1.2
 
 # Usage and Guide
 
+Do not forget to put your device into Recovery Mode,
+This tool cannot put your device into Recovery Mode
+because some issues that we cannot fix.
+
 Firstly install the dependencies.
 
 For MacOS:
