@@ -25,7 +25,8 @@ Firstly install the dependencies.
 
 For MacOS:
 
-`brew install libimobiledevice idevicerestore`
+`brew install libimobiledevice`
+`sudo port install idevicerestore`
 
 For Ubuntu:
 
